@@ -1,0 +1,11 @@
+{
+  "mysql_user": "root",
+  "mysql_pass": "",
+  "mysql_host": "localhost",
+  "mysql_database": "i_call_u_back",
+  "mysql_table": "voicemail",
+  "bw_user_id": "BW-USER-ID",
+  "bw_api_id": "BW-API-ID",
+  "bw_api_secret": "BW-API-SECRET"
+}
+
